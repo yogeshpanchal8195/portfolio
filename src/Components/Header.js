@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 
 class Header extends Component {
 
-   constructor(props){
-      super(props);
-   }
+   // constructor(props){
+   //    super(props);
+   // }
 
    yearsOfExp = () => {
       var joiningDate = new Date("2018 7 7")
@@ -18,7 +18,7 @@ class Header extends Component {
          var name = this.props.data.name;
          var occupation = this.props.data.occupation;
          var description = this.props.data.description;
-         var city = this.props.data.address.city;
+         // var city = this.props.data.address.city;
          var networks = this.props.data.social.map(function (network) {
             return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
          })

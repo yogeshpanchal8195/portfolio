@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 
 class Testimonials extends Component {
 
-   constructor(props){
-      super(props)
-   }
+   // constructor(props){
+   //    super(props)
+   // }
 
    yearsOfExp = () => {
       var joiningDate = new Date("2018 7 7")

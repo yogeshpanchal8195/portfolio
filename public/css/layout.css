@@ -237,8 +237,8 @@ ul#nav li.current a { color: #F06000; }
 
 #resume {
    background: #fff;
-   padding-top: 90px;
-   padding-bottom: 72px;
+   padding-top: 50px;
+   padding-bottom: 18px;
    overflow: hidden;
 }
 
@@ -261,9 +261,9 @@ ul#nav li.current a { color: #F06000; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education, .work {
-   margin-bottom: 48px;
-   padding-bottom: 24px;
+.education, .work ,.skill {
+   margin-bottom: 28px;
+   padding-bottom: 18px;
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
