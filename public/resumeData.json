@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": "Yogesh Panchal",
+    "occupation": "Senior FrontEnd Developer",
+    "description": "MEAN/MERN Stack Developer with experience of ",
+    "image": "yogesh.jpg",
+    "bio": "My name is Yogesh, I'm a Full Stack Developer. Currently I'm working at Infoedge",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "ypanchal10@gmail.com",
+    "phone": "+918607777484",
+    "address": {
+      "street": "#446/3, Moti Nagar",
+      "city": "Karnal",
+      "state": "Haryana",
+      "zip": "132001"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/yogesh.panchal.94651/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yogesh-panchal-171b44128/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/yogesh_panchal_81",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/yogeshpanchal8195",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Kurukshetra University",
+        "degree": "Btech (CSE)",
+        "graduated": "June 2018",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Infoedge",
+        "title": "Senior FrontEnd Developer",
+        "years": "March 2020 - Present",
+        "description": "Developed video interview module with integration of multiple vendors (Hangout/Microsoft Teams), Developed resume templates as private node modules, Created Employer & Campus home page, Campus Reports for jobseeker and Resume maker with customization feature"
+      },
+      {
+        "company": "Libsys",
+        "title": "Software Developer",
+        "years": "June 2018 - March 2020",
+        "description": "Developed attendance module , realtime grading system of assignment module & worked on web OPAC Library System"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "96%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "Angular",
+        "level": "85%"
+      },
+      {
+        "name": "HTML & CSS",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp Clone built with ReactJs, MongoDB & FireBase",
+        "image": "WhatsAppClone.PNG",
+        "url": "https://whatsappclone-2faf9.web.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJs, MongoDB & FireBase",
+        "image": "AmazonClone.PNG",
+        "url": "https://clone-a9872.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Passionate Software Developer having #yearOfExp# years of experience in Web development & good hands on JavaScript. Always got work on Front end side (React & Angular) but at my own I always explore new things & do work on nodeJS, mongoDB & Firebase. So that I can be a full stack (MEAN/MERN) developer ",
+        "user": "Yogesh Panchal"
+      }
+    ]
+  },
+
+  
+  "website": "http://www.timbakerdev.com",
+  "resumedownload": "http://timbakerdev.com"
+}
