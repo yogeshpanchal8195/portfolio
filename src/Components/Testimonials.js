@@ -10,7 +10,7 @@ class Testimonials extends Component {
       var joiningDate = new Date("2018 7 7")
       var todayDate = new Date();
       var years = Math.floor((todayDate.getTime() - joiningDate.getTime()) / (24 * 60 * 60 * 1000))
-      return Math.floor(years/365) + "+ years"
+      return (years/365).toFixed(1) + "+ years"
    }
 
   render() {

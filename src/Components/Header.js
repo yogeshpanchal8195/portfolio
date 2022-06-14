@@ -10,7 +10,7 @@ class Header extends Component {
       var joiningDate = new Date("2018 7 7")
       var todayDate = new Date();
       var years = Math.floor((todayDate.getTime() - joiningDate.getTime()) / (24 * 60 * 60 * 1000))
-      return Math.floor(years/365) + "+ years"
+      return (years/365).toFixed(1) + "+ years"
    }
 
    render() {
@@ -31,7 +31,6 @@ class Header extends Component {
                <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
                <ul id="nav" className="nav">
                   <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-                  {/* <li><a className="smoothscroll" href="#about">About</a></li> */}
                   <li><a className="smoothscroll" href="#resume">Resume</a></li>
                   <li><a className="smoothscroll" href="#portfolio">Works</a></li>
                   <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
@@ -41,7 +40,7 @@ class Header extends Component {
             <div className="row banner">
                <div className="banner-text">
                   <h1 className="responsive-headline">{name}</h1>
-                  <h3>I'm <span>{occupation}</span>. {description} {this.yearsOfExp()}.</h3>
+                  <h3>I'm <span>{occupation}</span> {description} {this.yearsOfExp()}.</h3>
                   <hr />
                   <ul className="social">
                      {networks}
@@ -49,7 +48,7 @@ class Header extends Component {
                </div>
             </div>
             <p className="scrolldown">
-               <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
+               <a className="smoothscroll" href="#resume"><i className="icon-down-circle"></i></a>
             </p>
          </header>
       );

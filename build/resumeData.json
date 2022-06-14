@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Yogesh Panchal",
-    "occupation": "Senior FrontEnd Developer",
-    "description": "MEAN/MERN Stack Developer with experience of ",
+    "occupation": "Senior Software Engineer",
+    "description": " with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly & good hands on javascript with a total experience of ",
     "image": "yogesh.jpg",
     "bio": "My name is Yogesh, I'm a Full Stack Developer. Currently I'm working at Infoedge",
     "contactmessage": "Get in touch with me to receive further details.",
@@ -49,16 +49,22 @@
     ],
     "work": [
       {
+        "company": "Dehaat",
+        "title": "Senior Software Engineer",
+        "years": "Feb 22 - Present",
+        "description": "Scripts to automate the CI/CD Pipeline & Trigger the test Suite"
+      },
+      {
         "company": "Infoedge",
-        "title": "Senior FrontEnd Developer",
-        "years": "March 2020 - Present",
-        "description": "Developed video interview module with integration of multiple vendors (Hangout/Microsoft Teams), Developed resume templates as private node modules, Created Employer & Campus home page, Campus Reports for jobseeker and Resume maker with customization feature"
+        "title": "Senior Frontend Engineer",
+        "years": "Mar 2020 - Feb 22",
+        "description": "Virtual interview module to ease the process of recruitment with integration of multiple vendors(Hangout/Teams), Summary report module of candidates through graphs , Jobseeker resume module for templates & customisation , Developed the campus and recruiter home page"
       },
       {
         "company": "Libsys",
         "title": "Software Developer",
-        "years": "June 2018 - March 2020",
-        "description": "Developed attendance module , realtime grading system of assignment module & worked on web OPAC Library System"
+        "years": "Jun 2018 - Mar 2020",
+        "description": "Grading portal that allow students and faculty to perform assignment submission, grading & publish result online, Developed a module to mark & view attendance online Worked on ERP portal of LS Classroom,OPAC Website to search & browse in library catalog"
       }
     ],
     "skills": [
@@ -71,6 +77,10 @@
         "level": "85%"
       },
       {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
         "name": "Angular",
         "level": "85%"
       },
@@ -80,10 +90,6 @@
       },
       {
         "name": "NodeJS",
-        "level": "70%"
-      },
-      {
-        "name": "MongoDB",
         "level": "70%"
       }
     ]

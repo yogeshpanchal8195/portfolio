@@ -1,5 +1,5 @@
 import React from 'react'
-import ResumeDoc from './YogeshResume.pdf'
+import ResumeDoc from './Yogesh_Resume.pdf'
 
 export default function DownloadResume() {
    return (
@@ -7,7 +7,6 @@ export default function DownloadResume() {
          <a href={ResumeDoc} download="Yogesh_Resume.pdf" target='_blank' rel="noreferrer">
             <button style={{'border':'none'}}>Download Resume</button>
          </a>
-
       </div>
    )
 }
