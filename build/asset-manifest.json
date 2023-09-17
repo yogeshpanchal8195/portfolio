@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bab0b925.chunk.css",
-    "main.js": "/static/js/main.cfaca0a4.chunk.js",
-    "main.js.map": "/static/js/main.cfaca0a4.chunk.js.map",
+    "main.js": "/static/js/main.aea73add.chunk.js",
+    "main.js.map": "/static/js/main.aea73add.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
     "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
     "static/js/2.835e8bfd.chunk.js": "/static/js/2.835e8bfd.chunk.js",
@@ -10,12 +10,12 @@
     "index.html": "/index.html",
     "static/css/main.bab0b925.chunk.css.map": "/static/css/main.bab0b925.chunk.css.map",
     "static/js/2.835e8bfd.chunk.js.LICENSE.txt": "/static/js/2.835e8bfd.chunk.js.LICENSE.txt",
-    "static/media/Yogesh_Resume.08ddd4e2.pdf": "/static/media/Yogesh_Resume.08ddd4e2.pdf"
+    "static/media/Yogesh_Resume.799d75fc.pdf": "/static/media/Yogesh_Resume.799d75fc.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.5ebc510a.js",
     "static/js/2.835e8bfd.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.cfaca0a4.chunk.js"
+    "static/js/main.aea73add.chunk.js"
   ]
 }

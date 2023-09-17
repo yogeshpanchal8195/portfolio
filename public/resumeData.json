@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Yogesh Panchal",
-    "occupation": "Senior Software Engineer",
+    "occupation": "Software Development Engineer II",
     "description": " with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly & good hands on javascript with a total experience of ",
     "image": "yogesh.jpg",
-    "bio": "My name is Yogesh, I'm a Full Stack Developer. Currently I'm working at Infoedge",
+    "bio": "My name is Yogesh, I'm a Software Engineer. Currently I'm working at Dehaat",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "ypanchal10@gmail.com",
     "phone": "+918607777484",
@@ -50,15 +50,15 @@
     "work": [
       {
         "company": "Dehaat",
-        "title": "Senior Software Engineer",
+        "title": "Software Development Engineer II",
         "years": "Feb 22 - Present",
-        "description": "Scripts to automate the CI/CD Pipeline & Trigger the test Suite"
+        "description": "Integrated PSP Apps i.e. PhonePe & GooglePay & PayTm in DFA App for EMI & other types of payments, Credit Module in which farmer avail the credit limit for placing order to Dehaat centers & can pay the amount using EMIs, GL Ordering Module in which Farmer's Group Leader can order online on marketplace/hyperlocal on behalf of farmers, Mapping farm with satellite to receive weekly biotic stress reports using Satellite monitoring, Developed disease detection flow of crops, Workflows to automate the CI/CD Pipeline, Worked on engg tasks i.e. Image blur detection & APIs 401 handling."
       },
       {
         "company": "Infoedge",
         "title": "Senior Frontend Engineer",
         "years": "Mar 2020 - Feb 22",
-        "description": "Virtual interview module to ease the process of recruitment with integration of multiple vendors(Hangout/Teams), Summary report module of candidates through graphs , Jobseeker resume module for templates & customisation , Developed the campus and recruiter home page"
+        "description": "Virtual interview module to ease the process of recruitment with integration of multiple vendors(Hangout/Teams), Summary report module of candidates through graphs, Jobseeker resume module for templates & customisation , Developed the campus and recruiter home page"
       },
       {
         "company": "Libsys",
