@@ -1,21 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.bab0b925.chunk.css",
-    "main.js": "/static/js/main.aea73add.chunk.js",
-    "main.js.map": "/static/js/main.aea73add.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
-    "static/js/2.835e8bfd.chunk.js": "/static/js/2.835e8bfd.chunk.js",
-    "static/js/2.835e8bfd.chunk.js.map": "/static/js/2.835e8bfd.chunk.js.map",
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.924bf8cf.js",
+    "static/media/Yogesh_Resume.pdf": "/static/media/Yogesh_Resume.cd5bd785d9ca6dab662f.pdf",
     "index.html": "/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.835e8bfd.chunk.js.LICENSE.txt": "/static/js/2.835e8bfd.chunk.js.LICENSE.txt",
-    "static/media/Yogesh_Resume.799d75fc.pdf": "/static/media/Yogesh_Resume.799d75fc.pdf"
+    "main.924bf8cf.js.map": "/static/js/main.924bf8cf.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ebc510a.js",
-    "static/js/2.835e8bfd.chunk.js",
-    "static/css/main.bab0b925.chunk.css",
-    "static/js/main.aea73add.chunk.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.924bf8cf.js"
   ]
 }

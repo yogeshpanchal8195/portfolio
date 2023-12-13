@@ -52,19 +52,19 @@
         "company": "Dehaat",
         "title": "Software Development Engineer II",
         "years": "Feb 22 - Present",
-        "description": "Integrated PSP Apps i.e. PhonePe & GooglePay & PayTm in DFA App for EMI & other types of payments, Credit Module in which farmer avail the credit limit for placing order to Dehaat centers & can pay the amount using EMIs, GL Ordering Module in which Farmer's Group Leader can order online on marketplace/hyperlocal on behalf of farmers, Mapping farm with satellite to receive weekly biotic stress reports using Satellite monitoring, Developed disease detection flow of crops, Workflows to automate the CI/CD Pipeline, Worked on engg tasks i.e. Image blur detection & APIs 401 handling."
+        "description": "Demonstrated a proven ability to lead and mentor team members in the development of mission-critical design systems. Through collaborative efforts, We successfully delivered high-quality solutions that met and exceeded client expectations. My hands-on experience in web and application development has equipped me with a deep understanding of industry best practices and emerging technologies. Provide technical leadership and guidance to the development team in adopting best practices and coding standards, Mentor junior team members conduct code reviews and assist in their professional growth. Lead the development of mission-critical design systems to ensure consistency and efficiency in the user interface across different components and projects."
       },
       {
         "company": "Infoedge",
         "title": "Senior Frontend Engineer",
         "years": "Mar 2020 - Feb 22",
-        "description": "Virtual interview module to ease the process of recruitment with integration of multiple vendors(Hangout/Teams), Summary report module of candidates through graphs, Jobseeker resume module for templates & customisation , Developed the campus and recruiter home page"
+        "description": "Design and develop high-quality scalable and maintainable front-end code for web. Stay current with industry trends and emerging technologies and evaluate their applicability to the existing tech stack. Collaborate closely with cross-functional teams including product managers & designers & back-end engineers to deliver end-to-end solutions."
       },
       {
         "company": "Libsys",
         "title": "Software Developer",
         "years": "Jun 2018 - Mar 2020",
-        "description": "Grading portal that allow students and faculty to perform assignment submission, grading & publish result online, Developed a module to mark & view attendance online Worked on ERP portal of LS Classroom,OPAC Website to search & browse in library catalog"
+        "description": "Design and develop high-quality scalable and maintainable front-end code for web. Communicate effectively with both technical and non-technical stakeholders providing updates on progress/challenges and proposed solutions. Contribute to project planning and estimation providing technical input on timelines and resource requirements."
       }
     ],
     "skills": [
@@ -113,13 +113,9 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Passionate Software Developer having #yearOfExp# years of experience in Web development & good hands on JavaScript. Always got work on Front end side (React & Angular) but at my own I always explore new things & do work on nodeJS, mongoDB & Firebase. So that I can be a full stack (MEAN/MERN) developer ",
+        "text": "Passionate Software Developer having #yearOfExp# years of experience in Web development & good hands on JavaScript. Always got work on Front end side (React, React Native & Angular) but at my own I always explore new things & do work on nodeJS, mongoDB & Firebase. So that I can be a full stack (MEAN/MERN) developer ",
         "user": "Yogesh Panchal"
       }
     ]
-  },
-
-  
-  "website": "http://www.timbakerdev.com",
-  "resumedownload": "http://timbakerdev.com"
+  }
 }
